@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dondi/Desktop/Lab07/113611066_Lab7_GDB_Github/gdb_practice'
+relocations:     []
+...
